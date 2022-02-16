@@ -1,5 +1,3 @@
-console.log("HI ABHI");
-//e98644fc57974247ab9d43d20a62a3f3
 let newsAccordian=document.getElementById('newsAccordian');
 
 const xhr=new XMLHttpRequest();
